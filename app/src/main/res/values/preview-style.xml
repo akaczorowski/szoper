@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+  <!--########### THEME-->
+  <style name="pl.Theme.Preview" parent="android:Theme.Holo.Light.NoActionBar">
+    <item name="android:windowBackground">@color/windowBackground</item>
+    <item name="runtimeTheme">@style/AppTheme</item>
+  </style>
+
+</resources>

@@ -1,0 +1,20 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+  <item
+      android:id="@+id/shoppingListsHeader"
+      android:icon="@android:drawable/ic_menu_agenda"
+      android:title="@string/shopping_lists_header">
+    <menu>
+      <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/currentLists"
+            android:title="@string/shopping_lists_current"
+            />
+        <item
+            android:id="@+id/archivedLists"
+            android:title="@string/shopping_lists_archived"
+            />
+      </group>
+    </menu>
+  </item>
+</menu>

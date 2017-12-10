@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <color name="colorPrimary">#14a96b</color>
+  <color name="colorPrimaryDark">#108c59</color>
+  <!--<color name="colorPrimaryDark">#02a7b3</color>-->
+  <color name="colorAccent">#f5f2f2</color>
+  <color name="windowBackground">#e4dcdd</color>
+
+  <color name="noteRowBorder">#666867</color>
+  <color name="noteAddBtn">#b15d14</color>
+  <color name="noteTitle">#535454</color>
+  <color name="noteText">#636464</color>
+
+  <color name="transparent">#00000000</color>
+  <color name="list_item_selection">#6b6868</color>
+  <color name="list_item_outline">#565555</color>
+</resources>
